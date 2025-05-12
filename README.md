@@ -1,2 +1,5 @@
-# image_classification_DL
-Image Classification task - Deep learning course
+# Image_classification_DL
+
+Neural network model prediction to classify Christmas images.
+
+
