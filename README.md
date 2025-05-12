@@ -21,7 +21,7 @@ Model is trained on dataset consisting of 8 different classes of christmas image
 
 ## step-1
 
-Check the test images from test folder. This folder also has model_1.py, data.py files which can be used to train the model and predict the class of an image after training.
+Check the test images from test folder. This folder also has data.py, model_1.py files which can be used to train the model and predict the class of an image after training.
 
 ## step-2 
 
