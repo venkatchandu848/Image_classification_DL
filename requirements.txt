@@ -1,0 +1,8 @@
+# Some of the libraries needed to work with this project
+
+torch
+torchvision
+Pillow
+numpy
+tdqm
+pandas
