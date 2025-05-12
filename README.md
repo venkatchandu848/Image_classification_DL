@@ -36,4 +36,4 @@ Run the test.py file to get the prediction class of test image.
 
 This classification project is part of Deep Learning course at Universität Siegen by Computer vision department, conducted in Kaggle platform. 
 
-To get the complete dataset and project details, you can visit [here]([https://www.kaggle.com/competitions/deep-learning-classification-challenge/leaderboard])
+To get the complete dataset and project details, you can visit [here](https://www.kaggle.com/competitions/deep-learning-classification-challenge/leaderboard)
